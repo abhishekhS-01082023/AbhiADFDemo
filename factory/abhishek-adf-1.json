@@ -1,0 +1,9 @@
+{
+	"name": "abhishek-adf-1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1cafeb48-a2e4-497f-b29d-6c83c62147e2",
+		"tenantId": "380a88f6-5447-406c-bebb-2c908f53f0a3"
+	}
+}

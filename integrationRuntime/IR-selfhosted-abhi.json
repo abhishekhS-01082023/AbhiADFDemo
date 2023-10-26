@@ -1,7 +1,0 @@
-{
-	"name": "IR-selfhosted-abhi",
-	"properties": {
-		"type": "SelfHosted",
-		"description": "This is a test IR self hosted"
-	}
-}

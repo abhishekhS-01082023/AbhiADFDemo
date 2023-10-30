@@ -1,0 +1,11 @@
+{
+	"name": "AzureBlobStorage2",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"containerUri": "https://abhishekhteststracc.blob.core.windows.net/testcontainerabhishekh",
+			"authenticationType": "Anonymous"
+		}
+	}
+}
